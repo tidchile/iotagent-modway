@@ -2,7 +2,7 @@
 
 Iot Agent "wisesock" is compatible with the device "wisebox".
 
-Generally speaking, a wisebox acts as a hub. It is equipped with a RS485 interface through which it communicates with the electric meters under MODBUS protocol. It features a modem 2G/3G through which opens a TCP socket sending a text data frame (JSON) with meter data already translated to the agent.
+Generally speaking, a wisebox acts as a hub. It is equipped with a RS485 interface through which it communicates with the electric meters under MODBUS protocol. It features a modem 2G/3G through which a TCP socket is opened for sending a text data frame (JSON) with meter data already translated to the agent.
 
 ## Index
 * Requisites
